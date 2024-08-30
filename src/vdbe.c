@@ -1,3 +1,8 @@
+/* @ss - Bytecode enginer code, we can see the functions coresponding
+**	 to the every opcode.
+**
+*/
+
 /*
 ** 2001 September 15
 **
